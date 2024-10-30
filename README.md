@@ -1,7 +1,7 @@
 # Projeto com README
 Um projeto de teste com um arquivo README 📌
 
-[<img src="../aula-tabela/giftela.gif" alt="gif da tela inicial do projeto tabela">]
+[<img src="./giftela.gif" alt="gif da tela inicial do projeto tabela">]
 
 ## Tecnologias utilizadas
 - HTML
